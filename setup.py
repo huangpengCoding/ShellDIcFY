@@ -21,7 +21,7 @@ setup(name='py',
       ],
       entry_points={
           'console_scripts': [
-              'fy = fy.fy:main'
+              'fy = py.fy:main'
           ]
       },
       )
