@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding:utf8 -*-
-__author__ = 'huangpeng03@baidu.com'
 
 import getopt
 import sys
